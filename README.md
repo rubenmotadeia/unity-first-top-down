@@ -18,7 +18,7 @@ This game has several small improvements beyond the tutorial as I tried to make 
 ---
 
 # LINK TO CHECK THE MOVEMENT
-https://rubenftgd.github.io/unity-first-top-down
+https://rubenmotadeia.github.io/unity-first-top-down
 
 # CONTROLS
 **Keys** - Move UP/Down and Left/Right
